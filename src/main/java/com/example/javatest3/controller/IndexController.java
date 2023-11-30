@@ -18,6 +18,6 @@ public class IndexController {
 
     @GetMapping("/")
     public String index2() {
-        return "자동배포테스트2";
+        return "test34";
     }
 }
