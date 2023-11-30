@@ -18,6 +18,6 @@ public class IndexController {
 
     @GetMapping("/")
     public String index2() {
-        return "hello K8s 제발가자!!!!!!!!";
+        return "오토 빌드 테스트";
     }
 }
